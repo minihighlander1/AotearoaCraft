@@ -1,0 +1,27 @@
+[19:32:20] [main/INFO]: Logging in with username & password
+[19:32:27] [main/INFO]: Setting user: minihighlander1
+[19:32:29] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:32:31] [Client thread/ERROR]: Couldn't initialize twitch stream
+[19:32:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Aotearoa Craft
+[19:32:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:32:47] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[19:32:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Aotearoa Craft
+[19:32:47] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[19:32:48] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:32:56] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:32:56] [Server thread/INFO]: Generating keypair
+[19:32:57] [Server thread/INFO]: Preparing start region for level 0
+[19:32:58] [Server thread/INFO]: Changing view distance to 8, from 10
+[19:32:59] [Server thread/INFO]: minihighlander1[local:E:8afc80dc] logged in with entity id 95 at (634.8712550761288, 4.0, 199.1910330973488)
+[19:32:59] [Server thread/INFO]: minihighlander1 joined the game
+[19:33:46] [Server thread/INFO]: Saving and pausing game...
+[19:33:46] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:33:46] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:33:46] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:33:49] [Server thread/INFO]: Stopping server
+[19:33:49] [Server thread/INFO]: Saving players
+[19:33:49] [Server thread/INFO]: Saving worlds
+[19:33:49] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[19:33:49] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[19:33:49] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[19:34:05] [Client thread/INFO]: Stopping!

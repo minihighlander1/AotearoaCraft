@@ -1,0 +1,21 @@
+[
+{
+  "modid": "AotearoaCraft",
+  "name": "Aotearoa Craft",
+  "description": "A mod that im using to learn the mod making process",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "minihighlander1"
+  ],
+  "credits": "thanks to pahimar's lets mod videos",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
