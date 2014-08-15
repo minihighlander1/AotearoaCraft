@@ -12,6 +12,7 @@ import net.minecraftforge.common.util.EnumHelper;
 
 public class ItemAC extends Item
 {
+    //Structure For Items
     public ItemAC()
     {
         super();

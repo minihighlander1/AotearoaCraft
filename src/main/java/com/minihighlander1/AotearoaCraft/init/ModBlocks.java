@@ -8,6 +8,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 @GameRegistry.ObjectHolder(Reference.MOD_ID)
 public class ModBlocks
 {
+    //Registering Blocks
     public static final BlockAC PounamuBlock = new BlockPounamu();
 
         public static void init()

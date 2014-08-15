@@ -11,6 +11,7 @@ import net.minecraft.client.renderer.texture.IIconRegister;
 
 public class BlockAC extends Block
 {
+    //Structure for Blocks
 public BlockAC(Material material){
     super(material);
     this.setCreativeTab(CreativeTabAC.AotearoaCraft_TAB);

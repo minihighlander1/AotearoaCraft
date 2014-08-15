@@ -4,6 +4,7 @@ import com.minihighlander1.AotearoaCraft.creativetab.CreativeTabAC;
 
 public class BlockPounamu extends BlockAC
 {
+    //Creating Pounamu Block
     public BlockPounamu(){
     super();
         this.setBlockName("PounamuBlock");

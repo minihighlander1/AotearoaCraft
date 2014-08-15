@@ -8,6 +8,7 @@ import net.minecraft.nbt.NBTTagCompound;
  */
 public class NBTHelper
 {
+    //Its In The Name
     public static boolean hasTag(ItemStack itemStack, String keyName)
     {
         return itemStack != null && itemStack.stackTagCompound != null && itemStack.stackTagCompound.hasKey(keyName);

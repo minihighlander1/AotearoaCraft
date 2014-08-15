@@ -13,13 +13,11 @@ import net.minecraftforge.common.util.EnumHelper;
 
 import javax.tools.Tool;
 
-/**
- * Created by joe on 8/08/14.
- */
+
 
 public class ItemPounamuClub extends ItemAC
 {
-
+//Fix Texture
 
     public ItemPounamuClub()
     {

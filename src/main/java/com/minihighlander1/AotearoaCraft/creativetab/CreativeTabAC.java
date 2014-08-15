@@ -5,11 +5,9 @@ import com.minihighlander1.AotearoaCraft.reference.Reference;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
-/**
- * Created by joe on 7/08/14.
- */
 public class CreativeTabAC
 {
+    //Creating Creative Tab
     public static final CreativeTabs AotearoaCraft_TAB = new CreativeTabs(Reference.MOD_ID) {
         @Override
         public Item getTabIconItem() {

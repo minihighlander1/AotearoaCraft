@@ -22,7 +22,7 @@ group= "com.minihighlander1.AotearoaCraft" // http://maven.apache.org/guides/min
 archivesBaseName = "AotearoaCraft"
 
 minecraft {
-    version = "1.7.10-10.13.0.1198"
+    version = "1.7.10-10.13.0.1199"
     assetDir = "eclipse/assets"
 }
 
