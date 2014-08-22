@@ -1,13 +1,9 @@
 package com.minihighlander1.AotearoaCraft.init;
 
-import com.minihighlander1.AotearoaCraft.block.BlockAC;
-import com.minihighlander1.AotearoaCraft.block.BlockPounamu;
 import cpw.mods.fml.common.registry.GameRegistry;
-import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
-
 
 public class Recipes
 {
@@ -23,6 +19,10 @@ public class Recipes
         //Adding Smelting Recipes
         GameRegistry.addSmelting(new ItemStack(ModItems.RawPaua), new ItemStack(ModItems.PauaMeat), 10);
         GameRegistry.addSmelting(new ItemStack(ModItems.Flax), new ItemStack(ModItems.DriedFlax), 15);
+        GameRegistry.addSmelting(new ItemStack(ModBlocks.ColdRocks), new ItemStack(ModBlocks.HotRocks), 50);
+
+        //Adding Shapeless Crafting Recipes
+        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.ColdRocks), new ItemStack(Blocks.cobblestone), new ItemStack(Items.snowball));
 
     }
 }

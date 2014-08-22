@@ -1,5 +1,4 @@
 item.aotearoacraft:Pounamu.name=Pounamu
-tile.aotearoacraft:PounamuBlock.name=Pounamu Block
 item.aotearoacraft:RawPaua.name=Raw Paua
 item.aotearoacraft:PauaMeat.name=Cooked Paua
 item.aotearoacraft:PounamuClub.name=Pounamu Mere
@@ -10,3 +9,7 @@ item.aotearoacraft:DriedFlax.name=Dried Flax
 item.aotearoacraft:Kete.name=Kete
 item.aotearoacraft:Patu.name=Patu
 item.aotearoacraft:Taiaha.name=Taiaha
+
+tile.aotearoacraft:PounamuBlock.name=Pounamu Block
+tile.aotearoacraft:ColdRocks.name=Cold Rocks
+tile.aotearoacraft:HotRocks.name=Hot Rocks

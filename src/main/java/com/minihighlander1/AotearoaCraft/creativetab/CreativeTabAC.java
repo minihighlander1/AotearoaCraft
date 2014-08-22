@@ -11,7 +11,7 @@ public class CreativeTabAC
     public static final CreativeTabs AotearoaCraft_TAB = new CreativeTabs(Reference.MOD_ID) {
         @Override
         public Item getTabIconItem() {
-            return ModItems.PounamuClub;
+            return ModItems.Kete;
         }
         @Override
     public String getTranslatedTabLabel()

@@ -4,7 +4,6 @@ import com.minihighlander1.AotearoaCraft.item.*;
 import com.minihighlander1.AotearoaCraft.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 
-
 @GameRegistry.ObjectHolder(Reference.MOD_ID)
 public class ModItems
 {
@@ -21,6 +20,7 @@ public class ModItems
     public static final ItemAC Patu = new ItemPatu();
     public static final ItemAC Taiaha = new ItemTaiaha();
 
+
     public static void init()
     {
         GameRegistry.registerItem(Pounamu, "Pounamu");
@@ -34,6 +34,7 @@ public class ModItems
         GameRegistry.registerItem(Kete, "Kete");
         GameRegistry.registerItem(Patu, "Patu");
         GameRegistry.registerItem(Taiaha, "Taiaha");
+
     }
 
 }

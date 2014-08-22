@@ -18,15 +18,13 @@ import javax.tools.Tool;
 public class ItemPounamuClub extends ItemAC
 {
 //Fix Texture
-
     public ItemPounamuClub()
     {
         super();
         this.setUnlocalizedName("PounamuClub");
         this.maxStackSize = 1;
         this.setCreativeTab(CreativeTabAC.AotearoaCraft_TAB);
-
-
     }
+
 
 }

@@ -8,7 +8,10 @@ public class BlockPounamu extends BlockAC
     public BlockPounamu(){
     super();
         this.setBlockName("PounamuBlock");
-        this.setCreativeTab(CreativeTabAC.AotearoaCraft_TAB);
+        this.setHardness(10.0f);
+        this.setResistance(5.0f);
+        this.setStepSound(soundTypeMetal);
+        this.getHarvestLevel(2);
 
 }
 }
